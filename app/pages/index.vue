@@ -46,7 +46,7 @@ const clearSearch = () => {
 
     <section class="container mx-auto p-4 max-w-6xl">
       <div class="mb-6">
-        <h1 class="text-center mb-4">Upcoming Events</h1>
+        <h1 class="text-center mb-4">Saturday March 28th</h1>
         <h3 class="text-center mb-12">No Thrones. No Crowns. No Kings.</h3>
 
         <!-- Controls -->
