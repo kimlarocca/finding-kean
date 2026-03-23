@@ -1,0 +1,622 @@
+[
+    {
+        "#": 1,
+        "Event Name": "NO KINGS Berlin/Lindenwold/Winslow NJ",
+        "Town": "Berlin, NJ",
+        "District": "NJ-1",
+        "Start": "12p",
+        "End": "4p",
+        "Event Link": "https://www.mobilize.us/nokings/event/900757/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 2,
+        "Event Name": "NO KINGS Camden/South Jersey",
+        "Town": "Camden, NJ",
+        "District": "NJ-1",
+        "Start": "11a",
+        "End": "",
+        "Event Link": "https://www.mobilize.us/nokings/event/906945/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 3,
+        "Event Name": "NO KINGS PINEHILLADELPHIA",
+        "Town": "Pine Hill, NJ",
+        "District": "NJ-1",
+        "Start": "12p",
+        "End": "3p",
+        "Event Link": "https://www.mobilize.us/nokings/event/913813/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 4,
+        "Event Name": "NO KINGS South Jersey",
+        "Town": "Glassboro, NJ",
+        "District": "NJ-1",
+        "Start": "2p",
+        "End": "3:30p",
+        "Event Link": "https://www.mobilize.us/nokings/event/900730/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 5,
+        "Event Name": "NO KINGS ATLANTIC CITY",
+        "Town": "Atlantic City, NJ",
+        "District": "NJ-2",
+        "Start": "3p",
+        "End": "",
+        "Event Link": "https://www.mobilize.us/nokings/event/905662/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 6,
+        "Event Name": "NO KINGS CAPE MAY COURT HOUSE",
+        "Town": "Cape May Court House, NJ",
+        "District": "NJ-2",
+        "Start": "1p",
+        "End": "3p",
+        "Event Link": "https://www.mobilize.us/nokings/event/906115/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 7,
+        "Event Name": "NO KINGS Cumberland County, Bridgeton, NJ (Down Jersey Coalition)",
+        "Town": "Bridgeton, NJ",
+        "District": "NJ-2",
+        "Start": "11a",
+        "End": "",
+        "Event Link": "https://www.mobilize.us/nokings/event/916081/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 8,
+        "Event Name": "NO KINGS Galloway, NJ",
+        "Town": "Galloway, NJ",
+        "District": "NJ-2",
+        "Start": "12p",
+        "End": "",
+        "Event Link": "https://www.mobilize.us/nokings/event/906957/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 9,
+        "Event Name": "NO KINGS Indivisible OCNJ (Ocean City New Jersey)",
+        "Town": "Ocean City, NJ",
+        "District": "NJ-2",
+        "Start": "10a",
+        "End": "12p",
+        "Event Link": "https://www.mobilize.us/nokings/event/901731/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 10,
+        "Event Name": "NO KINGS Lacey Township",
+        "Town": "Lacey Township, NJ",
+        "District": "NJ-2;NJ-4",
+        "Start": "3:30p",
+        "End": "",
+        "Event Link": "https://www.mobilize.us/nokings/event/902100/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 11,
+        "Event Name": "No Kings LBI",
+        "Town": "Ship Bottom, NJ",
+        "District": "NJ-2",
+        "Start": "2p",
+        "End": "",
+        "Event Link": "https://www.mobilize.us/nokings/event/905596/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 12,
+        "Event Name": "NO KINGS Mays Landing",
+        "Town": "Hamilton (Mays Landing), NJ",
+        "District": "NJ-2",
+        "Start": "1p",
+        "End": "",
+        "Event Link": "https://www.mobilize.us/nokings/event/918590/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 13,
+        "Event Name": "NO KINGS Freehold, NJ",
+        "Town": "Freehold, NJ",
+        "District": "NJ-3;NJ-4",
+        "Start": "2p",
+        "End": "",
+        "Event Link": "https://www.mobilize.us/indivisible/event/905680/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 14,
+        "Event Name": "NO KINGS - LAKEWOOD, NJ",
+        "Town": "Lakewood, NJ",
+        "District": "NJ-4",
+        "Start": "12p",
+        "End": "2p",
+        "Event Link": "https://www.mobilize.us/nokings/event/901635/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 15,
+        "Event Name": "NO KINGS Tinton Falls",
+        "Town": "Ocean Township (Tinton Falls), NJ",
+        "District": "NJ-4",
+        "Start": "2p",
+        "End": "3:30p",
+        "Event Link": "https://www.mobilize.us/nokings/event/901671/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 16,
+        "Event Name": "NO KINGS Toms River NJ",
+        "Town": "Toms River, NJ",
+        "District": "NJ-4",
+        "Start": "12p",
+        "End": "",
+        "Event Link": "https://www.mobilize.us/nokings/event/905612/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 17,
+        "Event Name": "NO KINGS Bergen County, NJ",
+        "Town": "Oradell, NJ",
+        "District": "NJ-5",
+        "Start": "10a",
+        "End": "11:30a",
+        "Event Link": "https://www.mobilize.us/nokings/event/912222/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 18,
+        "Event Name": "NO KINGS CLOSTER",
+        "Town": "Closter, NJ",
+        "District": "NJ-5",
+        "Start": "12p",
+        "End": "2:30p",
+        "Event Link": "https://www.mobilize.us/nokings/event/901694/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 19,
+        "Event Name": "NO KINGS Fair Lawn",
+        "Town": "Fair Lawn, NJ",
+        "District": "NJ-5",
+        "Start": "2p",
+        "End": "",
+        "Event Link": "https://www.mobilize.us/nokings/event/923333/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 20,
+        "Event Name": "NO KINGS Newton",
+        "Town": "Newton, NJ",
+        "District": "NJ-5",
+        "Start": "11a",
+        "End": "",
+        "Event Link": "https://www.mobilize.us/nokings/event/902184/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 21,
+        "Event Name": "NO KINGS Ramsey",
+        "Town": "Ramsey, NJ",
+        "District": "NJ-5",
+        "Start": "3p",
+        "End": "",
+        "Event Link": "https://www.mobilize.us/nokings/event/919329/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 22,
+        "Event Name": "NO KINGS TEANECK",
+        "Town": "Teaneck, NJ",
+        "District": "NJ-5",
+        "Start": "1p",
+        "End": "",
+        "Event Link": "https://www.mobilize.us/nokings/event/906951/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 23,
+        "Event Name": "NO KINGS Wanaque NJ",
+        "Town": "Wanaque, NJ",
+        "District": "NJ-5",
+        "Start": "4p",
+        "End": "6p",
+        "Event Link": "https://www.mobilize.us/nokings/event/924139/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 24,
+        "Event Name": "NO KINGS Highland Park NJ",
+        "Town": "Highland Park, NJ",
+        "District": "NJ-6",
+        "Start": "12p",
+        "End": "2p",
+        "Event Link": "https://www.mobilize.us/nokings/event/900815/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 25,
+        "Event Name": "NO KINGS PISCATAWAY",
+        "Town": "Piscataway, NJ",
+        "District": "NJ-6",
+        "Start": "1p",
+        "End": "2p",
+        "Event Link": "https://www.mobilize.us/nokings/event/904341/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 26,
+        "Event Name": "NO KINGS / Rahway",
+        "Town": "Rahway, NJ",
+        "District": "NJ-7",
+        "Start": "4p",
+        "End": "5p",
+        "Event Link": "https://www.mobilize.us/nokings/event/902110/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 27,
+        "Event Name": "NO KINGS Flemington",
+        "Town": "Flemington, NJ",
+        "District": "NJ-7",
+        "Start": "12p",
+        "End": "",
+        "Event Link": "https://www.mobilize.us/nokings/event/920669/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 28,
+        "Event Name": "NO KINGS Frenchtown",
+        "Town": "Frenchtown, NJ",
+        "District": "NJ-7",
+        "Start": "3p",
+        "End": "",
+        "Event Link": "https://www.mobilize.us/nokings/event/905837/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 29,
+        "Event Name": "NO KINGS Hackettstown",
+        "Town": "Hackettstown, NJ",
+        "District": "NJ-7",
+        "Start": "12:30p",
+        "End": "2p",
+        "Event Link": "https://www.mobilize.us/nokings/event/907928/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 30,
+        "Event Name": "NO KINGS Lambertville New Hope",
+        "Town": "Lambertville, NJ",
+        "District": "NJ-7",
+        "Start": "10a",
+        "End": "12p",
+        "Event Link": "https://www.mobilize.us/nokings/event/913334/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 31,
+        "Event Name": "NO KINGS Milford NJ",
+        "Town": "Milford, NJ",
+        "District": "NJ-7",
+        "Start": "1p",
+        "End": "",
+        "Event Link": "https://www.mobilize.us/nokings/event/907673/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 32,
+        "Event Name": "NO KINGS Mountainside",
+        "Town": "Mountainside, NJ",
+        "District": "NJ-7",
+        "Start": "11a",
+        "End": "",
+        "Event Link": "https://www.mobilize.us/nokings/event/902256/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 33,
+        "Event Name": "NO KINGS New Providence, NJ",
+        "Town": "New Providence, NJ",
+        "District": "NJ-7",
+        "Start": "1p",
+        "End": "2p",
+        "Event Link": "https://www.mobilize.us/nokings/event/901863/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 34,
+        "Event Name": "NO KINGS Phillipsburg",
+        "Town": "Phillipsburg, NJ",
+        "District": "NJ-7",
+        "Start": "10a",
+        "End": "11a",
+        "Event Link": "https://www.mobilize.us/nokings/event/907170/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 35,
+        "Event Name": "NO KINGS Somerset County NJ",
+        "Town": "Somerville, NJ",
+        "District": "NJ-7",
+        "Start": "11a",
+        "End": "",
+        "Event Link": "https://www.mobilize.us/nokings/event/900933/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 36,
+        "Event Name": "NO KINGS GUTTENBERG, NJ",
+        "Town": "Guttenberg, NJ",
+        "District": "NJ-8",
+        "Start": "4p",
+        "End": "5p",
+        "Event Link": "https://www.mobilize.us/nokings/event/914808/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 37,
+        "Event Name": "NO KINGS JERSEY CITY",
+        "Town": "Jersey City, NJ",
+        "District": "NJ-8;NJ-10",
+        "Start": "2:30p",
+        "End": "4:30p",
+        "Event Link": "https://www.mobilize.us/nokings/event/917411/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 38,
+        "Event Name": "NO KINGS Jersey City & Hoboken March & Rally",
+        "Town": "Jersey City, NJ",
+        "District": "NJ-8;NJ-10",
+        "Start": "9:30a",
+        "End": "11:30a",
+        "Event Link": "https://www.mobilize.us/nokings/event/914267/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 39,
+        "Event Name": "NO KINGS NEWARK, NEW JERSEY",
+        "Town": "Newark, NJ",
+        "District": "NJ-8;NJ-10",
+        "Start": "12p",
+        "End": "",
+        "Event Link": "https://www.mobilize.us/nokings/event/904700/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 40,
+        "Event Name": "NO KINGS WEEHAWKEN",
+        "Town": "Weehawken, NJ",
+        "District": "NJ-8",
+        "Start": "1p",
+        "End": "3p",
+        "Event Link": "https://www.mobilize.us/nokings/event/905132/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 41,
+        "Event Name": "No Kings Paterson",
+        "Town": "Paterson, NJ",
+        "District": "NJ-9",
+        "Start": "11a",
+        "End": "",
+        "Event Link": "https://www.mobilize.us/nokings/event/916850/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 42,
+        "Event Name": "NO KINGS Rutherford NJ",
+        "Town": "Rutherford, NJ",
+        "District": "NJ-9",
+        "Start": "1p",
+        "End": "3p",
+        "Event Link": "https://www.mobilize.us/nokings/event/905106/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 43,
+        "Event Name": "NO KINGS Secaucus",
+        "Town": "Secaucus, NJ",
+        "District": "NJ-9",
+        "Start": "5p",
+        "End": "",
+        "Event Link": "https://www.mobilize.us/nokings/event/916589/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 44,
+        "Event Name": "No Kings Wayne",
+        "Town": "Wayne, NJ",
+        "District": "NJ-9;NJ-11",
+        "Start": "11a",
+        "End": "",
+        "Event Link": "https://www.mobilize.us/nokings/event/908705/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 45,
+        "Event Name": "NO KINGS Montclair Area Rally",
+        "Town": "Montclair, NJ",
+        "District": "NJ-10;NJ-11",
+        "Start": "12p",
+        "End": "2p",
+        "Event Link": "https://www.mobilize.us/nokings/event/901573/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 46,
+        "Event Name": "NO KINGS No Masters East Orange New Jersey",
+        "Town": "East Orange, NJ",
+        "District": "NJ-10",
+        "Start": "11a",
+        "End": "",
+        "Event Link": "https://www.mobilize.us/nokings/event/920639/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 47,
+        "Event Name": "NO KINGS Bloomfield NJ at the Municipal Plaza",
+        "Town": "Bloomfield, NJ",
+        "District": "NJ-11",
+        "Start": "10a",
+        "End": "11:30a",
+        "Event Link": "https://www.mobilize.us/nokings/event/901895/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 48,
+        "Event Name": "NO KINGS CALDWELL",
+        "Town": "West Caldwell, NJ",
+        "District": "NJ-11",
+        "Start": "1:30p",
+        "End": "",
+        "Event Link": "https://www.mobilize.us/nokings/event/902043/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 49,
+        "Event Name": "NO KINGS DENVILLE",
+        "Town": "Denville, NJ",
+        "District": "NJ-11",
+        "Start": "1p",
+        "End": "",
+        "Event Link": "https://www.mobilize.us/nokings/event/907041/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 50,
+        "Event Name": "NO KINGS GLEN RIDGE",
+        "Town": "Glen Ridge, NJ",
+        "District": "NJ-11",
+        "Start": "12p",
+        "End": "",
+        "Event Link": "https://www.mobilize.us/nokings/event/900743/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 51,
+        "Event Name": "NO KINGS Montville NJ",
+        "Town": "Montville, NJ",
+        "District": "NJ-11",
+        "Start": "1:30p",
+        "End": "",
+        "Event Link": "https://www.mobilize.us/nokings/event/915147/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 52,
+        "Event Name": "NO KINGS MORRISTOWN",
+        "Town": "Morristown, NJ",
+        "District": "NJ-11",
+        "Start": "11a",
+        "End": "",
+        "Event Link": "https://www.mobilize.us/nokings/event/905697/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 53,
+        "Event Name": "NO KINGS [Madison, NJ]",
+        "Town": "Madison, NJ",
+        "District": "NJ-11",
+        "Start": "9:30a",
+        "End": "10:30a",
+        "Event Link": "https://www.mobilize.us/nokings/event/907326/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 54,
+        "Event Name": "SOMA Action NO KINGS III!",
+        "Town": "South Orange, NJ",
+        "District": "NJ-11",
+        "Start": "12p",
+        "End": "2p",
+        "Event Link": "https://www.mobilize.us/nokings/event/900755/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 55,
+        "Event Name": "NO KINGS Hightstown",
+        "Town": "Hightstown, NJ",
+        "District": "NJ-12",
+        "Start": "11a",
+        "End": "1p",
+        "Event Link": "https://www.mobilize.us/nokings/event/901482/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 56,
+        "Event Name": "NO KINGS III - Hopewell Valley, NJ",
+        "Town": "Hopewell, NJ",
+        "District": "NJ-12",
+        "Start": "2p",
+        "End": "",
+        "Event Link": "https://www.mobilize.us/nokings/event/912101/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 57,
+        "Event Name": "NO KINGS LAWRENCEVILLE",
+        "Town": "Lawrenceville, NJ",
+        "District": "NJ-12",
+        "Start": "2p",
+        "End": "",
+        "Event Link": "https://www.mobilize.us/nokings/event/913264/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 58,
+        "Event Name": "NO KINGS Monroe Township, NJ",
+        "Town": "Monroe Township, NJ",
+        "District": "NJ-12",
+        "Start": "1p",
+        "End": "",
+        "Event Link": "https://www.mobilize.us/indivisible/event/911784/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 59,
+        "Event Name": "NO KINGS North Plainfield",
+        "Town": "North Plainfield, NJ",
+        "District": "NJ-12",
+        "Start": "12p",
+        "End": "1:30p",
+        "Event Link": "https://www.mobilize.us/nokings/event/900788/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 60,
+        "Event Name": "NO KINGS Princeton, NJ",
+        "Town": "Princeton, NJ",
+        "District": "NJ-12",
+        "Start": "10a",
+        "End": "11:30a",
+        "Event Link": "https://www.mobilize.us/nokings/event/900741/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 61,
+        "Event Name": "NO KINGS Trenton",
+        "Town": "Trenton, NJ",
+        "District": "NJ-12",
+        "Start": "12p",
+        "End": "3p",
+        "Event Link": "https://www.mobilize.us/nokings/event/902182/",
+        "CD Confirmed": "✓"
+    },
+    {
+        "#": 62,
+        "Event Name": "NO KINGS: New Brunswick, NJ & Rutgers University",
+        "Town": "New Brunswick, NJ",
+        "District": "NJ-12",
+        "Start": "1p",
+        "End": "",
+        "Event Link": "https://www.mobilize.us/nokings/event/903882/",
+        "CD Confirmed": "✓"
+    }
+]

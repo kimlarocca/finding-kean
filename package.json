@@ -1,5 +1,5 @@
 {
-  "name": "nuxt4-boilerplate",
+  "name": "finding-kean",
   "type": "module",
   "private": true,
   "scripts": {
@@ -10,7 +10,6 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "@nuxtjs/supabase": "^2.0.3",
     "@primeuix/themes": "^1.2.5",
     "nuxt": "^4.2.0",
     "primevue": "^4.4.1",
