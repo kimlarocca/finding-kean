@@ -120,6 +120,37 @@ const clearSearch = () => {
         <p class="text-xl">No events found matching your search.</p>
       </div>
     </section>
+
+    <!-- Sponsors Section -->
+    <section class="container mx-auto p-4 max-w-6xl pt-16">
+      <h2 class="like-h1 text-center mb-12">Our Sponsors</h2>
+      <div class="flex flex-col sm:flex-row items-center justify-center gap-8 sm:gap-12">
+        <a
+          href="https://www.facebook.com/FindingKean2025/"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="plain"
+        >
+          <img
+            src="/images/finding-kean-fridays.png"
+            alt="Finding Kean Fridays"
+            class="w-64 h-64 object-contain"
+          />
+        </a>
+        <a
+          href="https://www.papnj.com"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="plain"
+        >
+          <img
+            src="/images/pap.png"
+            alt="People Are People - New Jersey"
+            class="w-64 h-64 object-contain"
+          />
+        </a>
+      </div>
+    </section>
   </div>
 </template>
 
