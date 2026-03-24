@@ -50,7 +50,7 @@ const clearSearch = () => {
           Saturday <br class="lg:hidden" />
           March 28th
         </h1>
-        <h3 class="mb-12">No Kings. No Keans. No Jesters.</h3>
+        <h3 class="mb-12">No Kings. No Keans. No Jesters. #NoKingsNoKeans</h3>
 
         <!-- Controls -->
         <div class="flex flex-col sm:flex-row gap-4 mb-6">
