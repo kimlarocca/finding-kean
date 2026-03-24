@@ -93,7 +93,8 @@ const MyPreset = definePreset(Aura, {
 export default defineNuxtConfig({
   compatibilityDate: '2025-10-26',
   devtools: { enabled: true },
-  modules: ['@primevue/nuxt-module'],
+  modules: ['@primevue/nuxt-module',
+    "@nuxtjs/supabase"],
 
   css: [
     '~/assets/css/tailwind.css',
@@ -106,6 +107,12 @@ export default defineNuxtConfig({
       tailwindcss: {},
       autoprefixer: {}
     }
+  },
+
+  supabase: {
+    key: "sb_publishable_hfb4cBZp-dppxuSEFkidtw_XdBFGbK2",
+    url: "https://udsyxtnbyejnwwvbifjr.supabase.co",
+    redirect: false,
   },
 
   primevue: {
@@ -160,6 +167,8 @@ export default defineNuxtConfig({
     public: {
       environment: 'prod',
       gtagId: 'G-TB4WTGXMX2',
+      supabaseKey: "sb_publishable_hfb4cBZp-dppxuSEFkidtw_XdBFGbK2",
+      supabaseUrl: "https://udsyxtnbyejnwwvbifjr.supabase.co",
     }
   }
 })

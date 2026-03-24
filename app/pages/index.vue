@@ -46,8 +46,11 @@ const clearSearch = () => {
 
     <section class="container mx-auto p-4 max-w-6xl">
       <div class="mb-6">
-        <h1 class="text-center mb-4">Saturday March 28th</h1>
-        <h3 class="text-center mb-12">No Thrones. No Crowns. No Kings.</h3>
+        <h1 class="mb-4">
+          Saturday <br class="lg:hidden" />
+          March 28th
+        </h1>
+        <h3 class="mb-12">No Kings. No Keans. No Jesters.</h3>
 
         <!-- Controls -->
         <div class="flex flex-col sm:flex-row gap-4 mb-6">
@@ -107,7 +110,7 @@ const clearSearch = () => {
               </div>
             </div>
             <span
-              class="inline-block px-4 py-2 bg-sky-800 text-white rounded hover:bg-sky-700 transition-colors text-center whitespace-nowrap"
+              class="inline-block px-4 py-2 bg-sky-800 text-white rounded hover:bg-sky-700 transition-colors whitespace-nowrap"
             >
               View Event
             </span>
@@ -116,15 +119,15 @@ const clearSearch = () => {
       </div>
 
       <!-- No results message -->
-      <div v-if="filteredEvents.length === 0" class="text-center py-12 text-gray-500">
+      <div v-if="filteredEvents.length === 0" class="py-12 text-gray-500">
         <p class="text-xl">No events found matching your search.</p>
       </div>
     </section>
 
     <!-- Sponsors Section -->
     <section class="container mx-auto p-4 max-w-6xl pt-16">
-      <h2 class="like-h1 text-center mb-12">Our Sponsors</h2>
-      <div class="flex flex-col sm:flex-row items-center justify-center gap-8 sm:gap-12">
+      <h2 class="like-h1 mb-12">Our Sponsors</h2>
+      <div class="flex flex-col sm:flex-row md:items-center gap-8 sm:gap-12">
         <a
           href="https://www.facebook.com/FindingKean2025/"
           target="_blank"
