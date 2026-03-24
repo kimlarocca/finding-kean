@@ -126,7 +126,7 @@ const clearSearch = () => {
 
     <!-- Sponsors Section -->
     <section class="container mx-auto p-4 max-w-6xl pt-16">
-      <h2 class="like-h1 mb-12">Our Sponsors</h2>
+      <h2 class="like-h1 mb-12">Our Partners</h2>
       <div class="flex flex-col sm:flex-row md:items-center gap-8 sm:gap-12">
         <a
           href="https://www.facebook.com/FindingKean2025/"
