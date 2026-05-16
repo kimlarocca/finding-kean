@@ -97,7 +97,10 @@ onMounted(() => {
 
 .nav-inner {
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
+  @media (min-width: 768px) {
+    justify-content: center;
+  }
   overflow-x: auto;
   scrollbar-width: none;
   &::-webkit-scrollbar {
