@@ -85,7 +85,7 @@ const clearSearch = () => {
         class="w-full mb-12 block sm:hidden"
       />
 
-      <div class="section-label">Section 1 — The Absence</div>
+      <div class="section-label">The Absence</div>
       <div class="missing-flyer mb-8">
         <div class="missing-flyer-header">🔍 Missing Person Report</div>
         <div class="missing-flyer-body">
@@ -141,10 +141,8 @@ const clearSearch = () => {
 
     <!-- The Paper Trail Section -->
     <section id="the-record" class="container mx-auto p-4 max-w-6xl py-24">
-      <div class="section-label">Section 2 — The Paper Trail</div>
-      <h2 class="mb-4">The Price of His Silence</h2>
-      <div class="stripe-accent"></div>
-      <h3 class="mb-6">The PaPer Trail</h3>
+      <div class="section-label">The Paper Trail</div>
+      <h2 class="mb-12">The Price of His Silence</h2>
       <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 mb-12">
         <!-- Card: DEBT -->
         <div
@@ -243,9 +241,7 @@ const clearSearch = () => {
     <!-- The Power Vacuum Section -->
     <section id="autopilot-rep" class="w-full bg-stone-900 text-white">
       <div class="container mx-auto p-4 max-w-6xl py-24">
-        <div class="section-label section-label--white">Section 3 — The Power Vacuum</div>
-        <h2 class="mb-4 text-white">Who is Pulling the Strings?</h2>
-        <div class="stripe-accent mb-12"></div>
+        <div class="section-label section-label--white">The Power Vacuum</div>
         <div class="flex flex-col md:flex-row gap-10 items-start">
           <img
             src="/images/the-power-vacuum.jpg"
@@ -253,7 +249,8 @@ const clearSearch = () => {
             class="w-full md:w-1/2 object-cover md:order-last"
           />
           <div class="flex-1">
-            <h3 class="mb-12 text-white">The Power Vacuum</h3>
+        <h2 class="mb-6 text-white">Who is Pulling the Strings?</h2>
+        <div class="stripe-accent mb-12"></div>
             <ul class="space-y-4 list-disc ml-5">
               <li>
                 <strong>The Proxy Portfolio:</strong> While too ill to vote for NJ-7, Tom
@@ -292,9 +289,9 @@ const clearSearch = () => {
 
     <!-- Tom's 2 Daddies Section -->
     <section id="toms-2-daddies" class="container mx-auto p-4 max-w-6xl py-24">
-      <div class="section-label">Section 4 — Tom's 2 Daddies</div>
-      <h2 class="mb-4">Tom's 2 Daddies</h2>
-      <div class="stripe-accent mb-12"></div>
+      <div class="section-label">Tom's 2 Daddies</div>
+      <!-- <h2 class="mb-4">Tom's 2 Daddies</h2>
+      <div class="stripe-accent mb-12"></div> -->
       <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 mb-12">
         <!-- Tom Kean Sr. -->
         <div class="border-2 border-gray-300 dark:border-stone-900 p-8">
@@ -573,7 +570,7 @@ const clearSearch = () => {
 .section-label {
   display: inline-block;
   font-family: var(--font-family-header);
-  font-size: 11px;
+  font-size: 14px;
   font-weight: 700;
   letter-spacing: 0.2em;
   text-transform: uppercase;
