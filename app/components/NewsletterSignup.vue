@@ -1,6 +1,6 @@
 <template>
   <div class="newsletter-signup w-fit">
-    <h3 class="mb-4">Stay Informed</h3>
+    <h2 class="mb-4">Join the Search Party</h2>
     <template v-if="!success">
       <p class="mb-4">
         Sign up to help us find Tom. We'll keep showing up, even if Tom Kean Jr. doesn't.

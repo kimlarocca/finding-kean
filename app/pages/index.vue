@@ -468,42 +468,52 @@ const clearSearch = () => {
     <!-- The Partners Section -->
     <section class="container mx-auto p-4 max-w-6xl pt-16">
       <h2 class="mb-6">Partners & Sponsors</h2>
-      <div class="flex flex-col sm:flex-row md:items-center gap-8 sm:gap-12">
+      <div class="flex flex-col lg:flex-row md:items-start gap-8 sm:gap-12">
         <a
           href="https://www.facebook.com/FindingKean2025/"
           target="_blank"
           rel="noopener noreferrer"
-          class="plain"
+          class="plain lg:text-center"
         >
           <img
             src="/images/finding-kean-fridays.png"
             alt="Finding Kean Fridays"
-            class="w-64 h-64 object-contain"
+            class="w-48 h-48 object-contain"
           />
+          <p class="font-bold">PARTNER</p>
         </a>
         <a
           href="https://www.papnj.com"
           target="_blank"
           rel="noopener noreferrer"
-          class="plain"
+          class="plain lg:text-center"
         >
           <img
             src="/images/pap.png"
             alt="People Are People - New Jersey"
-            class="w-64 h-64 object-contain"
+            class="w-48 h-48 object-contain"
           />
+          <p class="font-bold">PARTNER</p>
         </a>
         <a
           href="https://www.onenj7.org/"
           target="_blank"
           rel="noopener noreferrer"
-          class="plain"
+          class="plain lg:text-center"
         >
           <img
             src="/images/onenj.jpg"
             alt="One NJ 7"
-            class="w-64 h-64 object-contain"
+            class="w-48 h-48 object-contain"
           />
+          <p class="font-bold">SPONSOR</p>
+        </a>
+<a
+          href="mailto:whereistom@papnj.com?subject=I%20want%20to%20become%20a%20partner%20on%20cantfindtom.com!"
+          class="plain become-partner-btn w-44 h-44"
+          aria-label="Become a partner"
+        >
+          <span>Become<br />a Partner</span>
         </a>
       </div>
     </section>
@@ -511,6 +521,37 @@ const clearSearch = () => {
 </template>
 
 <style lang="scss" scoped>
+.become-partner-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: #cc0000;
+  color: #ffffff !important;
+  font-family: var(--font-family-header);
+  font-size: 18px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  text-align: center;
+  line-height: 1.2;
+  border: 4px solid #ffffff;
+  outline: 4px solid #cc0000;
+  margin-top: 8px;
+  flex-shrink: 0;
+  transition: all 0.2s ease;
+
+  &:hover {
+    background: #aa0000;
+    transform: scale(1.05);
+    text-decoration: none;
+  }
+
+  span {
+    pointer-events: none;
+  }
+}
+
 .waldo-divider {
   height: 24px;
   background: repeating-linear-gradient(
