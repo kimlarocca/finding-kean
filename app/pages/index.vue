@@ -53,8 +53,9 @@ const clearSearch = () => {
 
     <!-- The Intro Section -->
     <section id="the-search" class="container mx-auto p-4">
-      <h1 class="mb-6">Tom Kean Jr. —<br />Representative In Title Only</h1>
-      <h2 class="like-h3 mb-4">While Tom stays hidden, you pay the price.</h2>
+      <h1 class="mb-2">Tom Kean Jr. —</h1>
+      <h2 class="mb-6">Representative In Title Only</h2>
+      <h3 class="mb-4">While Tom stays hidden, you pay the price.</h3>
       <p>
         Since he vanished, NJ-7 has been hit with a
         <span class="font-bold">$1.50 gas surcharge</span>, a
