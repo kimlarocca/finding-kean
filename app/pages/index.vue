@@ -378,12 +378,14 @@ const clearSearch = () => {
                 <a
                   href="https://en.wikipedia.org/wiki/Targeting_of_political_opponents_and_civil_society_under_the_second_Trump_administration/"
                   class="underline text-white"
+                  target="_blank"
                   ><strong>Revenge.</strong></a
                 >
                 Running a
                 <a
                   href="https://fipa.bc.ca/nm/justice-department-escalates-scrutiny-of-trump-foes-with-probes-of-letitia-james-and-adam-schiff/"
                   class="underline text-white"
+                  target="_blank"
                   >retribution campaign.</a
                 >
               </dd>
@@ -396,6 +398,7 @@ const clearSearch = () => {
                 <a
                   href="https://www.voanews.com/a/transcript-of-donald-trumps-conversation-with-billy-bush-of-access-hollywood/3542128.html"
                   class="underline text-white"
+                  target="_blank"
                   ><strong>Contempt.</strong></a
                 >
                 "Grab 'em by the pussy." The gold standard for toxic conduct.
@@ -410,6 +413,7 @@ const clearSearch = () => {
                 <a
                   href="https://time.com/7342470/trump-net-worth-wealth-crypto/"
                   class="underline text-white"
+                  target="_blank"
                   >$3.4 Billion in wealth</a
                 >
                 while in office.
@@ -424,6 +428,7 @@ const clearSearch = () => {
                 <a
                   href="https://biologicaldiversity.org/w/news/press-releases/trump-proposes-opening-over-1-million-acres-of-california-public-lands-to-drilling-fracking-2026-01-12/"
                   class="underline text-white"
+                  target="_blank"
                   >opened public lands to drilling.</a
                 >
               </dd>
@@ -437,6 +442,7 @@ const clearSearch = () => {
                 <a
                   href="https://19thnews.org/2026/01/january-6-pardons-arrests/"
                   class="underline text-white"
+                  target="_blank"
                   >pardoned the criminals</a
                 >
                 who re-offended.
