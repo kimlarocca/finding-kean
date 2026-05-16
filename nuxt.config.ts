@@ -136,13 +136,15 @@ export default defineNuxtConfig({
       mode: "out-in",
     },
     head: {
-      title: 'Finding Kean', // default fallback title
+      title: 'CantFindTom.com | The Investigation into NJ-07\'s Missing Representative', // default fallback title
       htmlAttrs: {
         lang: 'en',
       },
       meta: [
         { name: 'msapplication-TileColor', content: '#0a84ff' },
-        { name: 'theme-color', content: '#0a84ff' }
+        { name: 'theme-color', content: '#0a84ff' },
+        { name: 'description', content: 'Where is Tom Kean Jr? Explore the investigation into his 75+ missed votes, his support for the "Big Ugly Bill" deficit bomb, and the high cost NJ-7 is paying for his absence.' },
+        { name: 'keywords', content: 'Tom Kean,Tom Kean Jr,Tom Kean Jr missing, Big Ugly Bill impact, NJ-07 town halls, Kean family legacy vs Trump, NJ-7 gas tax war, Tom Kean stock trades.' }
       ],
       link: [
         {

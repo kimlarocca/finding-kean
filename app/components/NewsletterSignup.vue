@@ -3,8 +3,7 @@
     <h3 class="mb-4">Stay Informed</h3>
     <template v-if="!success">
       <p class="mb-4">
-        Sign up for to help us Find Kean. We'll keep showing up, even if Tom Kean Jr
-        doesn't.
+        Sign up to help us find Tom. We'll keep showing up, even if Tom Kean Jr. doesn't.
       </p>
       <form @submit.prevent="handleSubmit">
         <div class="flex align-items-center gap-2 mb-3">

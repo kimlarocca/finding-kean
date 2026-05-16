@@ -1,6 +1,4 @@
 <script setup>
-import NewsletterSignup from "./NewsletterSignup.vue"
-
 const currentYear = new Date().getFullYear()
 </script>
 
@@ -9,9 +7,8 @@ const currentYear = new Date().getFullYear()
     <Divider class="mb-12" />
     <footer>
       <div class="container">
-        <NewsletterSignup />
-        <Divider class="my-12" />
-        <p class="small">
+      <p><a href="mailto:whereistom@papnj.com">whereistom@papnj.com</a></p>
+        <p class="small mt-2">
           The views expressed herein are exclusively those of the authors and do not
           reflect the official stance of any political candidate or other organization and
           have not been requested or endorsed by any related entity. Information presented
