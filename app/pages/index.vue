@@ -38,6 +38,7 @@ const clearSearch = () => {
 
 <template>
   <div>
+    <SectionNav />
     <img
       src="/images/hero.jpg"
       alt="a wheres waldo style image of Tom Kean Jr. hiding in plain sight at various events across NJ-7 | CantFindTom.com | The Investigation into NJ-07's Missing Representative"
@@ -49,8 +50,9 @@ const clearSearch = () => {
       class="w-full mb-16 block sm:hidden"
     />
 
+
     <!-- The Intro Section -->
-    <section class="container mx-auto p-4">
+    <section id="the-search" class="container mx-auto p-4">
       <h1 class="mb-6">Tom Kean Jr. —<br />Representative In Title Only</h1>
       <h2 class="like-h3 mb-4">While Tom stays hidden, you pay the price.</h2>
       <p>
@@ -71,7 +73,7 @@ const clearSearch = () => {
     </section>
 
     <!-- The Absence Section -->
-    <section class="container mx-auto p-4 max-w-6xl pt-16 pb-24">
+    <section id="the-absence" class="container mx-auto p-4 max-w-6xl pt-16 pb-24">
       <img
         src="/images/roxbury-concentration-camp-facility.jpg"
         alt="A photo of the 10-football-field industrial warehouse in Roxbury. A bronze-style plaque graphic is overlaid: 'THE KEAN FAMILY HUMAN WAREHOUSE | A Monument to Feckless Silence and Disappearing Representation.'"
@@ -83,8 +85,12 @@ const clearSearch = () => {
         class="w-full mb-12 block sm:hidden"
       />
 
-      <h2 class="mb-6">The MIA Report</h2>
-      <ul class="space-y-4 list-disc ml-5 mb-8">
+      <div class="section-label">Section 1 — The Absence</div>
+      <div class="missing-flyer mb-8">
+        <div class="missing-flyer-header">🔍 Missing Person Report</div>
+        <div class="missing-flyer-body">
+          <h2 class="mb-6">The MIA Report</h2>
+          <ul class="space-y-4 list-disc ml-5 mb-8">
         <li>
           <strong>Last Seen in Public:</strong> Tom hasn't held an open-to-the-public town
           hall in over 3 years.
@@ -116,7 +122,10 @@ const clearSearch = () => {
           >
           during the height of his absence.
         </li>
-      </ul>
+          </ul>
+        </div>
+      </div>
+      <div class="stripe-accent"></div>
       <h3 class="mb-3">A Legacy of Silence</h3>
       <p>
         Long before his current disappearance, Tom was already missing on the issues that
@@ -128,11 +137,13 @@ const clearSearch = () => {
       </p>
     </section>
 
-    <Divider />
+    <div class="waldo-divider" />
 
     <!-- The Paper Trail Section -->
-    <section class="container mx-auto p-4 max-w-6xl py-24">
-      <h2 class="mb-8">The Price of His Silence</h2>
+    <section id="the-record" class="container mx-auto p-4 max-w-6xl py-24">
+      <div class="section-label">Section 2 — The Paper Trail</div>
+      <h2 class="mb-4">The Price of His Silence</h2>
+      <div class="stripe-accent"></div>
       <h3 class="mb-6">The PaPer Trail</h3>
       <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 mb-12">
         <!-- Card: DEBT -->
@@ -140,6 +151,7 @@ const clearSearch = () => {
           class="p-16 relative bg-cover bg-center bg-no-repeat"
           style="background-image: url('/images/ripped-case-file-background.jpg')"
         >
+          <div class="card-stripe-header"></div>
           <span
             class="absolute top-4 right-4 text-2xl font-black text-white bg-red-600 px-4 py-2 rotate-[-8deg] inline-block"
             >DEBT</span
@@ -160,6 +172,7 @@ const clearSearch = () => {
           class="p-16 relative bg-cover bg-center bg-no-repeat"
           style="background-image: url('/images/ripped-case-file-background.jpg')"
         >
+          <div class="card-stripe-header"></div>
           <span
             class="absolute top-4 right-4 text-2xl font-black text-white bg-red-600 px-4 py-2 rotate-[-8deg] inline-block"
             >TAX</span
@@ -181,6 +194,7 @@ const clearSearch = () => {
           class="p-16 relative bg-cover bg-center bg-no-repeat"
           style="background-image: url('/images/ripped-case-file-background.jpg')"
         >
+          <div class="card-stripe-header"></div>
           <span
             class="absolute top-4 right-4 text-2xl font-black text-white bg-red-600 px-4 py-2 rotate-[-8deg] inline-block"
             >DUMB</span
@@ -198,6 +212,7 @@ const clearSearch = () => {
           class="p-16 relative bg-cover bg-center bg-no-repeat"
           style="background-image: url('/images/ripped-case-file-background.jpg')"
         >
+          <div class="card-stripe-header"></div>
           <span
             class="absolute top-4 right-4 text-2xl font-black text-white bg-red-600 px-4 py-2 rotate-[-8deg] inline-block"
             >CUT</span
@@ -226,9 +241,11 @@ const clearSearch = () => {
     </section>
 
     <!-- The Power Vacuum Section -->
-    <section class="w-full bg-stone-900 text-white">
+    <section id="autopilot-rep" class="w-full bg-stone-900 text-white">
       <div class="container mx-auto p-4 max-w-6xl py-24">
-        <h2 class="mb-12 text-white">Who is Pulling the Strings?</h2>
+        <div class="section-label section-label--white">Section 3 — The Power Vacuum</div>
+        <h2 class="mb-4 text-white">Who is Pulling the Strings?</h2>
+        <div class="stripe-accent mb-12"></div>
         <div class="flex flex-col md:flex-row gap-10 items-start">
           <img
             src="/images/the-power-vacuum.jpg"
@@ -274,8 +291,10 @@ const clearSearch = () => {
     </section>
 
     <!-- Tom's 2 Daddies Section -->
-    <section class="container mx-auto p-4 max-w-6xl py-24">
-      <h2 class="mb-12">Tom's 2 Daddies</h2>
+    <section id="toms-2-daddies" class="container mx-auto p-4 max-w-6xl py-24">
+      <div class="section-label">Section 4 — Tom's 2 Daddies</div>
+      <h2 class="mb-4">Tom's 2 Daddies</h2>
+      <div class="stripe-accent mb-12"></div>
       <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 mb-12">
         <!-- Tom Kean Sr. -->
         <div class="border-2 border-gray-300 dark:border-stone-900 p-8">
@@ -438,13 +457,13 @@ const clearSearch = () => {
       </div>
     </section>
 
-    <Divider />
+    <div class="waldo-divider" />
 
     <section class="container mx-auto p-4 max-w-6xl py-24">
       <NewsletterSignup />
     </section>
 
-    <Divider />
+    <div class="waldo-divider" />
 
     <!-- The Partners Section -->
     <section class="container mx-auto p-4 max-w-6xl pt-16">
@@ -491,4 +510,83 @@ const clearSearch = () => {
   </div>
 </template>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+.waldo-divider {
+  height: 24px;
+  background: repeating-linear-gradient(
+    to right,
+    #cc0000 0px,
+    #cc0000 24px,
+    #ffffff 24px,
+    #ffffff 48px
+  );
+  width: 100%;
+}
+
+.section-label {
+  display: inline-block;
+  font-family: var(--font-family-header);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: #ffffff;
+  background: #cc0000;
+  padding: 3px 10px;
+  margin-bottom: 12px;
+
+  &.section-label--white {
+    background: #ffffff;
+    color: #cc0000;
+  }
+}
+
+.stripe-accent {
+  height: 8px;
+  background: repeating-linear-gradient(
+    to right,
+    #cc0000 0px,
+    #cc0000 12px,
+    #ffffff 12px,
+    #ffffff 24px
+  );
+  width: 80px;
+  margin-bottom: 24px;
+  margin-top: 4px;
+}
+
+.missing-flyer {
+  border: 3px solid #cc0000;
+
+  .missing-flyer-header {
+    background: #cc0000;
+    color: #ffffff;
+    font-family: var(--font-family-header);
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    text-align: center;
+    padding: 8px 16px;
+    font-size: 14px;
+  }
+
+  .missing-flyer-body {
+    padding: 24px;
+  }
+}
+
+.card-stripe-header {
+  height: 12px;
+  background: repeating-linear-gradient(
+    to right,
+    #cc0000 0px,
+    #cc0000 12px,
+    #ffffff 12px,
+    #ffffff 24px
+  );
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+</style>
